@@ -1,0 +1,567 @@
+@media (min-width: 1280px) {
+	.screen-hand img {
+		min-width: 100%;
+	}
+	.hand-row {
+		margin-bottom: -141px;
+	}
+	.hand-box {
+		min-height: 320px;
+	}
+	.custom-box-8 {
+		margin: 0 auto;
+		    
+	}
+	.custom-box-4 {
+    height: 70vh;
+	}
+	.padding-menu {
+		padding-left: 11%;
+	}
+}
+@media (max-width: 1280px) {
+	.custom-box-8 {
+		background-size: 991px 618px;
+	}
+	.bx-viewport {
+		padding-left: 35px;
+	}
+	.left-testimonial {
+		margin-left: 55px;
+		width: 308px;
+	}
+	.custom-box-2 {
+		height: 56vh;
+	}
+	.custom-box-4 {
+    	height: 70vh;
+	}
+	.blog-post {
+		height: 45vh;
+	}
+	        
+}
+@media (min-width: 992px) {
+	.girl-photo  {
+		width: 225px;
+    	height: 225px;	
+	}
+	.custom-box-8 {
+		min-height: 900px;
+	}
+}
+@media (max-width: 991px) {
+	.info-custom-box-1 {
+		margin-left: 0;
+		margin-top: 60px;
+	}
+	.custom-box-1 {
+		background-size: 538.41px 398.67px;
+	}
+	.email-form {
+		padding-top: 70px;
+	}
+	.custom-box-2 {
+    background-position: bottom 90px left;
+	}
+	.new-styles-main .custom-box-4 {
+		background-size: 45%;
+		height: 87vh;
+	}
+	.about-girl-1 {
+		max-width: 375px;
+	}
+	.speech-balloon h4 {
+		margin-top: 45px;
+	}
+	.speech-balloon {
+		background-size: 100% 67%;
+    	width: 61%;
+	}
+	.girl-photo {
+		width: 53%;
+	}
+	.custom-box-5 {
+		min-height: unset;
+		padding-top: 5%;
+	}
+	.speech-balloon {
+		top: 25px;
+    	left: 154px;
+	}
+	.display-3 {
+		width: 18%;
+	}
+	.display-1 {
+		width: 18%;
+	}
+	.display-2{
+		width: 38%;
+	}
+	.display-1 h4 {
+		margin: 95px 0 0 0;
+		font-size: 10px;
+	}
+	.display-1 h2 {
+		width: 80.85px;
+		font-size: 13px;
+	}
+	.display-3 h4 {
+		margin: 106px 0 0 0;
+		font-size: 10px;
+	}
+	.display-3 h2 {
+		width: 80.85px;
+		font-size: 13px;
+	}
+	.display-2 h4 {
+		margin: 96px 0 0 0;
+	}
+	.custom-box-7 {
+		display: block;
+	}
+	.partners-txt {
+		text-align: center;
+    	margin-left: 0;
+    	width: unset;
+    	max-width: unset;
+	}
+	.footer-contacts {
+		padding-left: 15px;
+	}
+	.social h1 {
+		margin: 0 auto;
+	}
+	.social h5 {
+		margin: 0 auto;
+	}
+	.footer-contacts ul {
+		text-align: center;
+	}
+	.footer-contacts h1 {
+		text-align: center;
+	}
+	.social {
+		margin: 0 auto;
+		width: 100%;
+	}
+	.social-left {
+		margin: 0 auto;
+	}
+	.custom-box-8 {
+		background-image: none;
+
+	}
+	.left-testimonial {
+		margin: 0 auto;
+	}
+	.bx-wrapper .bx-controls-direction a {
+		right: 6%;
+	}
+	.left-testimonial h3 {
+		width: 249px;
+		font-size: 14px;
+	}
+	.bxslider {
+		width: 420px;
+	}
+	.hand-box {
+		margin-right: 10px;
+	}
+	.new-styles-main .custom-box-4 {
+		height: 50vh;
+	} 
+	.custom-box-1 {
+    	height: 88vh;
+	}
+	.header-second {
+	    max-width: 400px;
+	}
+	.recruter-box .recruter-row {
+	    display: block;
+    	width: 100%;
+	}
+	.info-padding-post {
+		text-align: center;
+	}
+	.third-recruter-bg-post, .recruter-bg-post, .forth-recruter-bg-post, .second-recruter-bg-post {
+		margin: 0 auto;	
+	}
+	.recruter-box {
+		max-width: 100%;
+	}
+	.info-padding-post {
+		padding-left: 0px;
+	}
+	.blog-post {
+		height: 38vh;
+	}
+}
+@media (max-width: 900px) {
+	.left-testimonial {
+
+	}
+
+
+}
+@media (max-width: 768px) {
+	.menu-header {
+		width: 385px;
+	}
+	.custom-box-2 {
+    background-position: bottom 134px left;
+	}
+	.hand-row {
+		width: unset;
+		max-width: unset;
+		margin-bottom: -50px;
+
+	}
+	.hand-box {
+		max-width: 32%;
+	}
+	.custom-box-4 {
+		height: 78vh;
+	}
+	.custom-box-4 h3 {
+		max-width: 424px;
+	}
+	.new-styles-main .custom-box-4 {
+		background-size: 50%;
+	}
+	.about-girl-1 {
+		min-width: 400px;
+		margin-left: 25%;
+	}
+	.social-left {
+		margin: 0 auto;
+	}
+	.social {
+		margin: 0 auto;
+		width: 100%;
+	}
+	.social h1 {
+		margin: 0 auto;
+	}
+	.social h5 {
+		margin: 0 auto;
+	}
+	.footer-contacts ul {
+		text-align: center;
+	}
+	.footer-contacts h1 {
+		text-align: center;
+	}
+	.email-form {
+    	padding-top: 86px;
+	}
+	.header-second {
+        max-width: 344px;
+	}
+}
+@media (max-width: 663px) {
+	.notresponsive-nav {
+		display: none;
+	}
+	.responsive-navigation {
+		display: block;
+	}
+	.email-form {
+		margin-top: 35px;
+	}
+	.padding-menu {
+		display: none;
+	}
+	.info-custom-box-1 {
+		width: 100%;
+		max-width: 100%;
+		text-align: center;
+		display: unset;
+	}
+	.info-custom-box-1 h1 {
+		text-align: center;
+		font-size: 50px;
+    	line-height: 50px;
+	}
+	.info-custom-box-1 h3 {
+		text-align: center;
+		margin: 14px auto;
+		line-height: 30px;
+	}
+	.email-form {
+		padding-top: 0px;
+		margin-top: 0px;
+	}
+	.email-form input {
+		margin-top: 0px;
+	}
+	.submit-btn {
+		margin-top: 15px;
+		    
+	}
+	.custom-box-1 {
+		background-position-x: 50%;
+		height: 90vh;
+	}
+	.hand-box h5 {
+		font-size: 13px;
+		width: unset;
+	}
+	.about-girl-1 {
+		margin-left: 16%;
+	}
+	.row-display {
+		display: inline-block;
+	}
+	.display-1 {
+		min-width: 100%;
+	}
+	.display-2 {
+		min-width: 80%;
+		margin-top: 10px;
+    	margin-bottom: 10px;
+	}
+	.display-3 {
+		min-width: 100%;
+	}
+	.row-display .display-1 h4 {
+		margin: 85px 0 0 0;
+    	font-size: 12px;
+	}
+	.custom-box-6 .my-column h5 {
+		text-align: center;
+		font-size: 17px;
+	}
+	.display-2 {
+		margin-left: 10%;
+	}
+	
+	.hand-box {
+    min-width: 340px;
+    height: unset;
+    background: none;
+    margin: 0 auto;
+	}
+	.hand-row {
+		display: block;
+		margin-bottom: -15px;
+	}
+	.hand-box h5 {
+		font-size: 14px;
+	}
+	.hand-box h3 {
+		font-size: 23px;
+	}
+	.custom-box-2 {
+		height: unset;
+	}
+	.custom-box-1 {
+		height: 50vh;
+	}
+}
+@media (max-width: 560px) {
+	.custom-box-1 {
+		background-size: 400.41px 300.67px;
+	}
+	.left-box h1 {
+		font-size: 50px;
+    	line-height: 57px;
+	}
+	.left-box {
+		    min-width: 500px;
+	}
+	.left-box h1 {
+		text-align: center;
+		margin-top: 0px;
+	}
+	.custom-box-2 {
+		background-position: top 170px left;
+		background-size: 60%;
+	}
+	.right-box {
+		min-width: 500px;
+	}
+	.right-box h3 {
+		text-align: center;
+    	width: 100%;
+    	margin-top: 0;
+	} 
+	.right-box h5 {
+		text-align: center;
+    	width: 100%;
+	}
+	.right-box {
+		padding-top: 200px;
+	}
+	.hand-box h3 {
+		margin-top: 15px;
+	}
+	.blog-post-content {
+		margin-top: 10px;
+	}
+	.blog-post {
+		height: 33vh;
+	}
+	.blog-post-content {
+		margin-top: 20px;
+	}
+	.blog-post h1 {
+		font-size: 35px;
+	}
+}
+@media (max-width: 500px) {
+	.left-box h1 {
+		font-size: 37px;
+    	line-height: 37px;
+	} 
+	.custom-box-2 {
+		background-position: top 90px left;
+    	background-size: 70%;
+	}
+	.right-box {
+		padding-top: 120px;
+	}
+	.right-box {
+    	min-width: 320px;
+	}
+	.right-box h3{
+		margin-left: 30%;
+	}
+	.right-box h5{
+		margin-left: 30%;
+	}
+	.hand-row {
+		display: unset;
+	}
+	.hand-box {
+		min-width: 320px;
+    	height: unset;
+    	background: none;
+    	margin: 0 auto;
+	}
+	.new-styles-main .custom-box-4 {
+		background-size: 70%;
+		height: 80vh;
+	}    
+	.custom-box-4 h1 {
+		font-size: 50px;
+    	line-height: 57px;
+	}
+	.custom-box-4 h3 {
+		max-width: 320px;
+		font-size: 17px;
+	}
+	.about-girl-1 {
+		margin-left: 4%;
+	}
+	/*460*/
+	.speech-balloon {
+		background-size: 93% 54%;
+    	width: 63%;
+    	top: 12px;
+    	left: 135px;
+	}
+	.girl-photo {
+    width: 46%;
+	}
+	.display-2 {
+		margin-left: 10%;
+	}
+	.new-styles-main .custom-box-4 {
+		height: 50vh;
+	}
+}
+@media (max-width: 401px) {
+	.custom-box-1	{
+	    background-size: 320px 240.67px;
+	}
+	.left-box h1 {
+		font-size: 29px;
+	}
+	.custom-box-2 {
+    	background-position: top 105px left;
+    	background-size: 84%;
+	}
+	.email-form {
+		margin-top: 30px;
+	}
+	.new-styles-main .custom-box-4 {
+		height: 67vh;
+	}
+	.speech-balloon h4 {
+		line-height: 2.1;
+		margin-top: 49px;
+		font-size: 10px;
+		width: 158.2px;
+	}
+	.speech-balloon {
+		width: 55%;
+		background-size: 90% 54%;
+    	top: -48px;
+    	left: 112px;
+	}
+	.girl-photo {
+    	width: 33%;
+	}
+	.name-proffesion {
+    	vertical-align: bottom;
+    	padding-left: 15px;
+	}
+	.about-girl-1 {
+    	margin-left: 2%;
+	}
+	.about-girl-1 {
+		max-height: 135px;
+	}
+	.custom-box-5 {
+		padding-top: 34px;
+	}
+	.display-2 {
+		margin-top: 0px;
+    	margin-bottom:	0px;
+	}
+	.partners-txt h1 {
+		font-size: 50px;
+	}
+	.partners-txt h5 {
+		font-size: 19px;
+    	line-height: 19px;
+	}
+	.partners-logo-first li  {
+		padding-right: 9px;
+	}
+	.partners-logo-second li  {
+		padding-right: 9px;
+	}
+	.custom-box-8 > h3 {
+		font-size: 17px;
+		text-align: center;
+	}
+	.custom-box-8 > h1 {
+		font-size: 50px;
+		margin-top: 25px;
+		line-height: 50px;
+	}
+	.column-testimonial {
+		width: 236px;
+    	margin-left: 0px;
+	}
+	.column-testimonial h5 {
+		max-width: 180px;
+	}
+	.partners-logo-third li {
+		padding-right: 10px;
+	}
+	.blog-post {
+		padding-top: 10px;
+		height: unset;
+		padding-bottom: 10px;
+	}
+	.blog-post h1 {
+		font-size: 35px;
+		line-height: 34px;
+	}
+	.blog-post h5 {
+
+	}
+}

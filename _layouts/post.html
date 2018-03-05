@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{% include header-second.html %}
+
+
+
+<div>
+    <div class="blog-post">
+        <h4>{{ page.date | date_to_string }}</h4>
+        <h1>{{ page.title }}</h1>
+        <h5>{{ page.meta }}</h5>
+        {% include social-share.html %}
+    </div>
+    <div class="container blog-post-content">
+        {{ content }}
+        {% include social-share.html %}
+    </div>
+</div>
+   <!-- {% for post in sites.post%}-->
+   <!--{% endfor %} -->
+   <!--<div class="blog-content">
+    <div class="blog-list">
+        <div class="blog-box">
+            <div>
+                <img class="blog-box-img "  src="{{ site.baseurl }}/assets/img/blogDetail/{{ page.img }}" class="img-responsive post-image mb-50" alt="blog-img">
+            </div>
+            <div class="blog-box-date"><h3>{{ page.date | date_to_string }}</h3></div>
+            <div class="blog-box-title"><h1>{{ page.title }}</h1></div>
+            <div class="blog-box-text"><h5>{{ page.meta }}</h5></div>
+            </div>
+    </div>
+</div> -->

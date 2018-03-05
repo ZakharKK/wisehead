@@ -1,0 +1,79 @@
+---
+layout: blog
+title: blog
+pagination:
+  enabled: true
+  category: news
+  sort_reverse: true
+--- 
+
+<!--<ul>
+	{% for post in site.posts %}
+	<li>
+		<a href="">{{ post.title }}</a>
+		<p></p>
+	</li>
+	{% endfor %}
+</ul>-->
+<!--
+<div class="blog-content">   
+    <ul>
+    	{% for post in site.posts %}
+        <li>
+            <div class="blog-box">
+            <div>
+                <img class="blog-box-img "  src="{{ site.baseurl }}/assets/img/blogDetail/{{ post.img }}" class="img-responsive post-image mb-50" alt="blog-img">
+            </div>
+            <div class="blog-box-date"><h3>{{ post.date | date_to_string }}</h3></div>
+            <div class="blog-box-title"><h1>{{ post.title }}</h1></div>
+            <div class="blog-box-text"><h5>{{ post.meta }}</h5></div>
+            </div> paginator.posts
+        </li> site.categories[page.category]
+        {% endfor %}
+    </ul>  
+</div> -->
+
+<div class="container">
+  <div class="row">
+  {% for post in paginator.posts %}
+    <div class="blog-box col-md-3 col-sm-12">
+      <div>
+        <img class="blog-box-img "  src="{{ site.baseurl }}/assets/img/blogDetail/{{ post.img }}" class="img-responsive post-image mb-50" alt="blog-img">
+      </div>
+      <h3 class="blog-box-date">{{ post.date | date_to_string }}</h3>
+      <h1 class="blog-box-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+      <h5 class="blog-box-text">{{ post.meta }}</h5>
+      <div class="content">
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+
+<div class="row">
+<!-- Pagination links -->
+<div class="pagination col-md-12 col-sm-12 text-center">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous"></a>
+    {% else %}
+      <span class="previous opacity-arrow"></span>
+    {% endif %}
+    <span class="page_number"> {{ paginator.page }} / {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next"></a>
+    {% else %}
+      <span class="next opacity-arrow"></span>
+    {% endif %}
+  </div>
+</div>
+
+</div>
+<!-- This loops through the paginated posts 
+{% for post in paginator.posts %} | prepend: site.baseurl | replace: '//', '/'
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %} -->

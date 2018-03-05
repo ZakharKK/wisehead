@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="353px" viewBox="0 0 222 353" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 41</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M208.456831,350.34738 L11.5319919,350.34738 C5.67715323,350.34738 0.886830645,345.851958 0.886830645,340.357553 L0.886830645,10.8223121 C0.886830645,5.3279075 5.67715323,0.832485546 11.5319919,0.832485546 L208.456831,0.832485546 C214.311669,0.832485546 219.101992,5.3279075 219.101992,10.8223121 L219.101992,340.357553 C219.101992,345.851958 214.311669,350.34738 208.456831,350.34738 Z" id="path-1"></path>
+        <pattern id="pattern-2" width="26.2193878" height="26.2193878" x="-25.3325571" y="-25.3869022" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-3" transform="scale(0.546237245,0.546237245)"></use>
+        </pattern>
+        <image id="image-3" width="48" height="48" xlink:href="data:image/png;base64,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"></image>
+        <polygon id="path-4" points="0 351.179865 219.989355 351.179865 219.989355 0 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-893.000000, -4039.000000)">
+            <g id="Page-1" transform="translate(894.000000, 4040.000000)">
+                <g id="Group-41">
+                    <g id="Fill-1">
+                        <use fill="#000000" xlink:href="#path-1"></use>
+                        <use fill="url(#pattern-2)" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M208.456831,350.34738 L11.5319919,350.34738 C5.67715323,350.34738 0.886830645,345.851958 0.886830645,340.357553 L0.886830645,10.8223121 C0.886830645,5.3279075 5.67715323,0.832485546 11.5319919,0.832485546 L208.456831,0.832485546 C214.311669,0.832485546 219.101992,5.3279075 219.101992,10.8223121 L219.101992,340.357553 C219.101992,345.851958 214.311669,350.34738 208.456831,350.34738 Z" id="Stroke-3" stroke="#000000" stroke-width="2"></path>
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Clip-6"></g>
+                    <polygon id="Fill-5" fill="#FFFFFF" mask="url(#mask-5)" points="13.3401613 273.487319 206.649194 273.487319 206.649194 41.9314645 13.3401613 41.9314645"></polygon>
+                    <polygon id="Stroke-7" stroke="#000000" stroke-width="2" mask="url(#mask-5)" points="13.3401613 273.487319 206.649194 273.487319 206.649194 41.9314645 13.3401613 41.9314645"></polygon>
+                    <polygon id="Fill-8" fill="#000000" mask="url(#mask-5)" points="13.3401613 308.163672 206.649194 308.163672 206.649194 273.487319 13.3401613 273.487319"></polygon>
+                    <polygon id="Stroke-9" stroke="#000000" stroke-width="2" mask="url(#mask-5)" points="13.3401613 308.163672 206.649194 308.163672 206.649194 273.487319 13.3401613 273.487319"></polygon>
+                    <polygon id="Fill-10" fill="#000000" mask="url(#mask-5)" points="155.476129 294.687396 167.895484 294.687396 167.895484 283.032598 155.476129 283.032598"></polygon>
+                    <polygon id="Stroke-11" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-5)" points="155.476129 294.687396 167.895484 294.687396 167.895484 283.032598 155.476129 283.032598"></polygon>
+                    <path d="M115.788218,288.86033 C115.788218,292.078719 113.008056,294.687729 109.57854,294.687729 C106.149024,294.687729 103.368863,292.078719 103.368863,288.86033 C103.368863,285.641941 106.149024,283.032931 109.57854,283.032931 C113.008056,283.032931 115.788218,285.641941 115.788218,288.86033" id="Fill-12" fill="#000000" mask="url(#mask-5)"></path>
+                    <path d="M115.788218,288.86033 C115.788218,292.078719 113.008056,294.687729 109.57854,294.687729 C106.149024,294.687729 103.368863,292.078719 103.368863,288.86033 C103.368863,285.641941 106.149024,283.032931 109.57854,283.032931 C113.008056,283.032931 115.788218,285.641941 115.788218,288.86033 Z" id="Stroke-13" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-5)"></path>
+                    <polygon id="Fill-14" fill="#000000" mask="url(#mask-5)" points="52.0931613 288.86033 62.8483226 294.687729 62.8483226 283.032931"></polygon>
+                    <polygon id="Stroke-15" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-5)" points="52.0931613 288.86033 62.8483226 294.687729 62.8483226 283.032931"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

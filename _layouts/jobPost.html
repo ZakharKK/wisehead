@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{% include header-second.html %}
+<main>
+    <div>
+        <div class="blog-post">
+            <h4>{{ page.city }}</h4>
+            <h1>{{ page.title }}</h1>
+            <h5>{{ page.meta }}</h5>
+            {% include social-share.html %}
+        </div>
+        <div class="container blog-post-content">
+            {{ content }}
+            {% include social-share.html %}
+        </div>
+    </div>
+</main>
